@@ -18,7 +18,7 @@
     "@babel/helper-function-name": "workspace:^7.14.5",
     "@babel/helper-optimise-call-expression": "workspace:^7.14.5",
     "@babel/helper-plugin-utils": "workspace:^7.14.5",
-    "@babel/helper-replace-supers": "workspace:^7.14.5",
+    "@babel/helper-replace-supers": "7.0.0",
     "@babel/helper-split-export-declaration": "workspace:^7.14.5",
     "globals": "condition:BABEL_8_BREAKING ? ^13.5.0 : ^11.1.0"
   },
